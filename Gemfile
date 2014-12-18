@@ -74,7 +74,6 @@ end
 group :production do
   gem 'pg'
   gem 'thin'
-  gem 'rails_12factor'
 end
 
 # Use unicorn as the app server
